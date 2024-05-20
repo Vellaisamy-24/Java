@@ -40,6 +40,7 @@ public class InsertNodeAtFirstSLL {
         
 
         obj.InsertAtBeginning(0);
+        
         obj.display();
     }
     
