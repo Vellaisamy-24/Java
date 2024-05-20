@@ -8,7 +8,7 @@ public class InsertNodeAtLast {
        public Node (int data)
         {
 this.data=data;
-this.next=next;
+this.next=null;
         }
     }
     public void InsertAtLast(int data)

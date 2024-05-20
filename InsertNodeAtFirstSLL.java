@@ -8,7 +8,7 @@ public class InsertNodeAtFirstSLL {
         public Node(int data)
         {
             this.data=data;
-            this.next=next;
+            this.next=null;
         }
     }
     public void display()
