@@ -1,0 +1,95 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "single",
+      "request": "launch",
+      "mainClass": "DS.single",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "type": "java",
+      "name": "InserNodeSLL",
+      "request": "launch",
+      "mainClass": "DS.InserNodeSLL",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "type": "java",
+      "name": "ArraySum",
+      "request": "launch",
+      "mainClass": "ProblemSolving.Arrays.ArraySum",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "type": "java",
+      "name": "PrimeNumber",
+      "request": "launch",
+      "mainClass": "PrimeNumber",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "type": "java",
+      "name": "length",
+      "request": "launch",
+      "mainClass": "length",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "type": "java",
+      "name": "armstrong",
+      "request": "launch",
+      "mainClass": "armstrong",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "type": "java",
+      "name": "palindrome",
+      "request": "launch",
+      "mainClass": "palindrome",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "type": "java",
+      "name": "reverseOfNumber",
+      "request": "launch",
+      "mainClass": "reverseOfNumber",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "type": "java",
+      "name": "hello",
+      "request": "launch",
+      "mainClass": "hello",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "type": "java",
+      "name": "array",
+      "request": "launch",
+      "mainClass": "array",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "type": "java",
+      "name": "dynamicArray",
+      "request": "launch",
+      "mainClass": "dynamicArray",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "type": "java",
+      "name": "Vellai",
+      "request": "launch",
+      "mainClass": "Vellai",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "name": "Attach to Chrome",
+      "port": 9222,
+      "request": "attach",
+      "type": "chrome",
+      "webRoot": "${workspaceFolder}"
+    }
+  ]
+}
