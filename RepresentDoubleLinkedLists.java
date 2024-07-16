@@ -14,7 +14,7 @@ public class RepresentDoubleLinkedLists {
 
         }
     }
-    public void DoubleList()
+    public  RepresentDoubleLinkedLists()
     {
         this.head=null;
         this.tail=null;
